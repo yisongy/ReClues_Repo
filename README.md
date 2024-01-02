@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/738024296.svg)](https://zenodo.org/doi/10.5281/zenodo.10450585)
+
 # Artifact for the Paper "ReClues: Representing and Indexing Failures in Parallel Debugging with Program Variables"
 
 This is the artifact for the ICSE 2024 research paper "***ReClues: Representing and Indexing Failures in Parallel Debugging with Program Variables***". This artifact supplies the replication package (the code, the instructions for replicating our experiments, and the benchmark) as well as the supplementary material (the detailed running example presented in the paper). With the online available approach implementation and the concrete documents, we sincerely apply for the **Available Badge** and the **Reusable Badge**.
